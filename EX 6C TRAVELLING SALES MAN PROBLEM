@@ -17,8 +17,8 @@ To solve the Travelling Salesman Problem (TSP) for the given graph using a brute
 ```
 # To implement the program for TSP.
 
-# Developed by: Ann Blessy Philips 
-# Register Number: 212222040008
+# DEVELOPED BY: S JAIGANESH
+# REGISTER NUMBER : 212222240037
 
 from sys import maxsize
 from itertools import permutations
